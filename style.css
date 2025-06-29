@@ -1093,3 +1093,8 @@ footer{
         padding: 13px;
     }
 }
+
+.footer{
+        margin-bottom: 50px;
+        text-align: center;
+    }
